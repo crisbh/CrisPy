@@ -1,6 +1,4 @@
-# CrisPy
-
-<h1 align="center">AstroNvim config</h1>
+<h1 align="center">CrisPy</h1>
 
 <div align="center"><p>
     <a href="https://github.com/crisbh/crispy/pulse">
